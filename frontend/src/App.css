@@ -1,0 +1,49 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  color: #00050a;
+}
+
+.container {
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+}
+
+h1 {
+  color: #00050a;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 8px;
+  width: 350px;
+}
+
+button {
+  padding: 8px 14px;
+  background-color: #0a2447;
+  color: white;
+  border: none;
+}
+
+table {
+  width: 100%;
+  margin-top: 15px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
